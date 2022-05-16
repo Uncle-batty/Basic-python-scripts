@@ -1,0 +1,1 @@
+print('mon \t tue \t wed \t thur \t fri \t sat \t sun' )
